@@ -6,7 +6,7 @@ const App = () => {
   return (
     <div>
       <Header />
-      <PidorSection />
+      <PidorSection pidory="Egor" />
       <Footer />
     </div>
   );

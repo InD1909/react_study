@@ -1,10 +1,7 @@
-const PidorSection = () => {
+const PidorSection = (props) => {
   return (
     <div>
       <h2>Pidorasy</h2>
-      <button>Egor</button>
-      <button>Maksim</button>
-      <button>Ilya</button>
     </div>
   );
 };
